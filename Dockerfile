@@ -11,10 +11,12 @@ RUN apt-get update && apt-get install -y \
     libcairo2 \
     libcups2 \
     libdbus-1-3 \
+    libdbus-glib-1-2 \
     libexpat1 \
     libfontconfig1 \
     libgbm1 \
     libglib2.0-0 \
+    libgtk-3-0 \
     libnspr4 \
     libpango-1.0-0 \
     libpangocairo-1.0-0 \
